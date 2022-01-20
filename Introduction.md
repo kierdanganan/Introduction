@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kierdanganan
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on UI/UX Designer and to learn something
+- 📫 How to reach me? Send an email on kier.darem.danganan@gmail.com
